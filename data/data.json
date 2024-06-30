@@ -1,0 +1,22 @@
+{
+  "name": "scrollpoint[https://scrollio.pages.dev/sessions]",
+  "symbol": "scrollpoint",
+  "decimals": 18,
+  "description": "A multi-chain token",
+  "website": "https://scrollio.pages.dev/sessions",
+  "twitter": "@token",
+  "tokens": {
+    "ethereum": {
+      "address": "0x68C16dDD5Ab64701Ea45C8B8f0D613aB293CFe11"
+    },
+    "scroll": {
+      "address": "0x68C16dDD5Ab64701Ea45C8B8f0D613aB293CFe11"
+    },
+    "sepolia": {
+      "address": "0x68C16dDD5Ab64701Ea45C8B8f0D613aB293CFe11"
+    },
+    "scroll-sepolia": {
+      "address": "0x68C16dDD5Ab64701Ea45C8B8f0D613aB293CFe11"
+    }
+  }
+}
